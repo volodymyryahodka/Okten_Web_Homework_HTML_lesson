@@ -1,0 +1,37 @@
+
+.up {
+    width: 1800px;
+    height: 300px;
+    background: aqua;
+}
+
+.center_1 {
+    width: 400px;
+    height: 500px;
+    background: blueviolet;
+}
+
+.center_2 {
+    width: 400px;
+    height: 500px;
+    background: coral;
+}
+
+.center_3 {
+    width: 400px;
+    height: 500px;
+    background: fuchsia;
+}
+
+.down {
+    width: 1600px;
+    height: 600px;
+    background: yellow;
+}
+
+.mather {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}

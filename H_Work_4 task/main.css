@@ -1,0 +1,56 @@
+
+.header {
+    width: 1600px;
+    height: 200px;
+    background: blue;
+     padding: 40px;
+
+}
+
+.nav {
+    width: 1600px;
+    height: 150px;
+    background: chartreuse;
+
+}
+
+.main {
+    width: 1000px;
+    height: 700px;
+    background: deepskyblue;
+
+
+}
+
+.aside {
+    width: 300px;
+    height: 700px;
+    background: orangered;
+    align-items: flex-end;
+
+}
+
+.footer {
+    width: 1600px;
+    height: 100px;
+    background: yellow;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    min-height: 100%;
+}
+
+.jjj {
+    display: flex;
+    width: 90%;
+    height: 90%;
+    padding-top: 40px;
+}
+
+body {
+    margin: 20px;
+}

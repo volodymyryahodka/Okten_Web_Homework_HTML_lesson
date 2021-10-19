@@ -1,0 +1,26 @@
+.father{
+    width: 1500px;
+    height: 700px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.a {
+    background: red;
+    width: 1800px;
+    height: 300px;
+}
+
+.b {
+    background: aqua;
+    width: 1000px;
+    height: 600px;
+    align-self: start;
+}
+
+.c {
+    width: 500px;
+    height: 600px;
+    background: blue;
+}
