@@ -1,0 +1,53 @@
+
+.father {
+    background: cornflowerblue;
+}
+
+.header {
+    width: 1800px;
+    height: 200px;
+    background: blue;
+
+
+}
+
+.menu {
+    width: 200px;
+    height: 800px;
+    background: #9500ff;
+
+
+}
+
+.post_1 {
+    width: 1200px;
+    height: 400px;
+    background: #fff200;
+
+}
+.post {
+    width: 1200px;
+    height: 400px;
+    background: #82a52a;
+
+}
+
+.footer {
+    width: 1800px;
+    height: 200px;
+    background: #2029da;
+}
+.obernuv {
+    display: flex;
+    width: 80%;
+    height: 80%;
+    padding-top: 50px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: start;
+;
+
+
+
+}
+
