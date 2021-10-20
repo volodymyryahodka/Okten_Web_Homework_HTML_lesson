@@ -3,7 +3,6 @@
     width: 1600px;
     height: 200px;
     background: blue;
-     padding: 40px;
 
 }
 
@@ -48,9 +47,5 @@
     display: flex;
     width: 90%;
     height: 90%;
-    padding-top: 40px;
-}
 
-body {
-    margin: 20px;
 }
