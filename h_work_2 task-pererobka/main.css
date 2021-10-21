@@ -1,42 +1,36 @@
-
 .father {
-    background: cornflowerblue;
+    background: lime;
 }
 
 .header {
     width: 1800px;
     height: 200px;
-    background: blue;
-
-
+   background: cornflowerblue;
 }
 
 .menu {
     width: 200px;
     height: 800px;
     background: #9500ff;
-
-
 }
 
 .psw_1 {
     width: 1200px;
     height: 400px;
-    background: #fff200;
-
+    background: salmon;
 }
 .psw {
     width: 1200px;
     height: 400px;
-    background: #82a52a;
-
+    background: #f55a48;
 }
 
 .footer {
     width: 1800px;
     height: 200px;
-    background: #2029da;
+    background: cornflowerblue;
 }
+
 .obernuv {
     display: flex;
     width: 80%;
@@ -45,9 +39,4 @@
     flex-direction: column;
     flex-wrap: wrap;
     align-items: start;
-;
-
-
-
 }
-
